@@ -1,5 +1,7 @@
 # YoutubeData
 
+Skills: Python, SQL (DDM (o lo que sea)),  json, API, Pandas, Pyodbc.
+
 In this project, the objective is to request some video metrics from Youtube API and then store them in a database. 
 
 The project has two steps:
