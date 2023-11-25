@@ -10,6 +10,6 @@ First Step. We interact with Youtube API and create a json object in order to ob
 
 With a for loop, we apply this proccess to all the videos in a given channel and include that data into a dataframe.
 
-Finally, we create a csv from that dataframe that will be used in the Second Step.
+Finally, we create a csv (youtube_vids_2nd_pull.csv) from that dataframe that will be used in the Second Step.
 
 Second Step. We import previous csv into a new data_frame and send it to a database (SQL)..... in progress.
