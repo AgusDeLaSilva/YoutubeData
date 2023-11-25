@@ -1,0 +1,180 @@
+,video_id,video_title,published_date,channel_title,channel_id,view_count,like_count,comment_count
+0,cEannyn5exA,What Visualization Frameworks Do You Need To Learn As A Data Scientist?,2023-11-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,611,28,1
+1,tT7STcGCvUY,Cleaning Data Like a 10x Data Scientist,2023-11-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1385,71,2
+2,O4FXdudaZAY,10 Ways Not To Suck On Coding Interviews For Data Science,2023-11-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,734,23,0
+3,q9HJ3hGjdo4,5 Skills Companies Look For in Data Science Candidates + 5 Project Ideas,2023-10-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1028,51,0
+4,WS0fM1agxTk,Master SQL Subqueries with Multiple Tables,2023-09-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1718,54,4
+5,mqHQwF6_r1E,6 Stages of Data Science Project,2023-09-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1536,95,4
+6,oJglmpO_esU,3 Data Science Projects To Land A Job,2023-09-06,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2389,113,9
+7,4uVxxj07cRE,Is SQL Really the ONLY Language You Need for Data Science?,2023-08-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1392,66,8
+8,3FRoEyC0hdI,How To Be a Lazy Data Scientist With AI Chrome Extensions,2023-08-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,950,68,1
+9,EDArFuFl0tU,3 Popular Machine Learning Algorithms In 5 Min,2023-08-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,746,27,3
+10,0rSuMJB6IE4,6 Skills for the New Data Scientist,2023-07-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1744,120,10
+11,Y0hCQsCMIZM,15 ChatGPT Plugins for Data Science,2023-07-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1117,71,6
+12,pBC6DJRBzSw,Unsupervised Feature Selection for Machine Learning in 5 Mins,2023-07-12,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,889,16,3
+13,vuJi4lF52YU,Feature Selection for Machine Learning In 5 Mins,2023-07-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,689,27,3
+14,rDteKsifPow,Filtered Based Feature Selection for Machine Learning In 5 Mins,2023-06-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,972,37,4
+15,1TgQf5WA9Mw,Analyzing Movie Reviews: A 3-Step Approach to Predict Movie Rating,2023-06-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,276,9,0
+16,kcTrK4xxhPk,Mastering Movie Classification: Rotten Tomatoes Data Project [Part 2],2023-06-21,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1084,18,1
+17,l9DMUrJQAzY,Text Analysis Made Easy: Tokenization for ML Algorithms,2023-06-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,393,8,0
+18,AuNuF7lCI8w,SMOTE: Tackling Imbalanced Data in Machine Learning,2023-06-09,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,480,23,0
+19,Qh9ajFNeIEc,Data Project: Analyzing Review Sentiment for Accurate Ratings [Part 1],2023-06-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,827,21,0
+20,J4rheMtvu6g,[Part 3]: Random Forest Classifier For A Facebook Data Science Project of Movie Ratings,2023-05-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,489,7,0
+21,3iqH-yNQFUw,Exploring Decision Tree and Random Forest Classifiers | Machine Learning Algorithms,2023-05-30,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,970,31,0
+22,Ih6G5hnn30Q,[Part 2]: Exploring Decision Tree Classifiers For A Facebook Data Science Project of Movie Ratings,2023-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,559,17,1
+23,REGDQyCBY0I,Rotten Tomatoes Movie Rating Prediction - Data Science Project,2023-05-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,212,6,0
+24,cM12QtrhdLo,[Part 1]: Exploring and Visualizing Data For A Facebook Data Science Project of Movie Ratings,2023-05-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,942,21,3
+25,A9QzeBFj5GY,Python Pandas: Understanding Percentage Ranking Method,2023-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,325,13,0
+26,Cg66PLiW9L0,Data Ranking: Python Pandas and SQL Equivalents [Part 2],2023-05-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,624,18,1
+27,d2neUrrUSu0,Python for Data Analysis: Probability And Binomial Distribution,2023-05-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,876,31,0
+28,MO1TY636-YA,A Python Approach to Solving Probability Interview Question for Data Science,2023-04-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1081,35,0
+29,f6P1nuQXsC0,Using IFNULL() Function in MySQL to Avoid Null Value Errors,2023-04-25,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,499,16,0
+30,rbRYsAgwPBA,Using IFNULL() on a Google SQL Interview Question,2023-04-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2423,52,4
+31,IWo8H8U_Ugk,Sorting and Ranking Data in Python: An Overview of the Rank() Function,2023-04-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,291,9,0
+32,2uu0prXMhfU,How to Rank() Your Data In Python Pandas [Part 1],2023-04-12,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1134,48,1
+33,sF6gngs9myY,38 Data Science Tools For Beginners to Experts,2023-04-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2118,151,12
+34,Y5-eAFnxMjU,Maximizing Profits: Solving the Uber Data Project Scenario Two,2023-04-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,346,14,0
+35,xlppLbv7nb0,Using Python Pandas for Building Uber&#39;s Business Models [Part 3],2023-03-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1227,25,0
+36,Mkhdz2TLP2E,Uber Data Project: Exploring Bonus Payout with Data Analysis,2023-03-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,649,24,0
+37,-Lzi4Qoy2v4,Using Python Pandas To Answer Business Questions For An Uber Data Science Project [Part 2],2023-03-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1035,29,3
+38,pqeUTfNFBCU,Exploring and Cleaning Data: The First Step in Every Data Project,2023-03-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5392,207,3
+39,ZOthTms86Bw,Exploratory Data Analysis For An Uber Python Data Science Project [Part 1],2023-03-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2440,82,0
+40,9oNY9EV3MiM,Speed up your Python Data Manipulation with Lambda Filter Function,2023-02-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,958,28,0
+41,YN-5NQO4iSU,Solving Amazon Interview Questions with Lambda Filter Function in Python,2023-02-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,999,40,2
+42,ltzJhIs8voQ,Mastering SQL String Manipulation with Regex_split_to_table() function,2023-02-21,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,559,35,2
+43,BgN5hpl3WKc,Solving a Tricky Google SQL Question with String Manipulation,2023-02-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2307,56,4
+44,GxR66KdqBFU,Analyzing Datasets with Window Functions: First Value Syntax and Examples,2023-02-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,529,17,2
+45,-KXluZNAYrA,Window Function in SQL: A Step-by-Step Guide to Solve Amazon Interview Question,2023-02-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2191,76,10
+46,Xzr7PMeqXyU,Crush Your Data Science Interview: Master Group By and Aggregate Functions in Python,2023-02-07,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,430,22,1
+47,f-9SnlALFac,Group By &amp; Aggregate Functions to Solve Python Coding Questions,2023-02-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,960,39,4
+48,iN9H3Bau05k,Airbnb Python Coding Practice for Interview,2023-01-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1613,57,0
+49,_XbrEcgQYSA,How to Use the Lambda Function in Python to Solve Interview Questions,2023-01-25,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1151,31,4
+50,pqQG_tNXncc,Classical Machine Learning [DoorDash Data Science Project],2023-01-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2718,60,4
+51,g7Lt_Kqn0wA,Hard SQL Interview Question from Wine Magazine,2023-01-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,610,20,0
+52,vdmCxvaRdLU,Using Rank() and PARTITIONs in SQL To Solve Complex SQL Interview Questions,2023-01-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2348,71,10
+53,A1U4TPxZ0CE,Correlation Matrix in Python to Solve a DoorDash Data Science Task,2023-01-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,718,33,0
+54,gh5JzALBQvU,How To Handle Multicollinearity and Feature Selection [DoorDash Data Science Project],2023-01-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2809,88,9
+55,m3zEV10qvE8,Collinearity and Removing Redundancies [DoorDash Data Science Project],2022-12-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2138,69,8
+56,G7fvAkj9gQs,How to Build a DoorDash Prediction Model with Python,2022-12-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1412,42,0
+57,Sf6jn8QZHhc,Data Preparation for Modeling [DoorDash Data Science Project],2022-12-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4624,98,23
+58,AM4nPwvUtTo,Python Data Science Projects for Beginners - Boost Your Portfolio in 2023,2022-12-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2570,145,5
+59,Vt-POo9tEB8,Spotify Days At Number One SQL Question,2022-12-07,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,617,25,0
+60,93quPoReV1M,SQL Solution to SPOTIFY Days At Number One Question,2022-12-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3450,109,5
+61,6xo0cn0BpKs,How to Solve a Forbes Interview Question Using the Sample() Function,2022-11-30,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,711,17,0
+62,a8T88wCrmAQ,Solving FORBES Coding Interview Questions in PYTHON: 3 Simple Steps!,2022-11-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1538,58,10
+63,i80pkW8YeKI,Data Provides vs Data Users: Choose Your Job in Data Science,2022-11-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1350,20,2
+64,yoUO84tOH3c,Edge Case Alert in Python Interview Question Solving [Part 2],2022-11-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,427,14,0
+65,qbN_t6sh4_E,Data Science Job Types &amp; Careers,2022-11-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,736,35,3
+66,9quwCoQ6CoU,Meta Product Families: head() Function to Explore the Data [Part 1],2022-11-09,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,259,5,0
+67,RmMuS5iiviI,Python Pandas Techniques In A Meta Data Science Interview,2022-11-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1727,56,1
+68,bppeYE-VUSQ,Data Science Interview Simple Tips: How to Answer the Additional Question,2022-10-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,657,26,0
+69,0EKPN19Y9MA,How many Twitch viewers became streamers? A SQL coding question,2022-10-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,376,13,0
+70,vQmk0bH25d0,[Part 2] EDGE Cases in Data Analysis: How to Reduce the Risk of Missing Important Details,2022-10-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,448,4,0
+71,M-dT_0m4qhI,SQL interview: How many Twitch viewers became streamers?,2022-10-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3200,95,7
+72,rEaSskQhId4,[Part 1] How to Solve an Amazon Python Interview Question - The 3-Step Framework,2022-10-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,607,18,0
+73,8IIryKHheYw,(Part 3) How to Formulate the Approach for Solving SQL Interview Questions,2022-10-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,285,4,0
+74,yQSZT65WET4,A Python Coding Interview Question From Amazon,2022-10-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1572,49,5
+75,OMHbYrL09io,A/B Testing (A) Interview Questions or (B) for Data Scientists,2022-10-12,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2083,79,0
+76,SGDchcWjaTA,(Part 2) Deepen Your Understanding of Data with These Simple Tips,2022-10-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,572,20,0
+77,9av7jQ9MA44,A/B Testing Concepts To Know For Data Science,2022-10-06,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2928,130,7
+78,nh2nLDpxDFI,(Part 1) Meta SQL Interview Question: Identify the Popular Posts,2022-10-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,620,28,0
+79,Q-3wvYInCeI,Meta SQL Interview Question - A Step-By-Step Solution,2022-09-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4843,125,11
+80,0cYfw5mWJ-E,How to Perform Data Analysis with Python for Freedom Debt Relief,2022-09-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,562,32,5
+81,sVdNVgtpkD4,A Python Project to Solve Your Debt Problems,2022-09-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6067,211,16
+82,M4shTrIgXs0,3 Simple Steps to Solve Noom SQL Interview Questions,2022-09-21,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,519,15,1
+83,5Lpbw71xR3o,Framework to Solve Noom Advanced SQL Interview Question,2022-09-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2839,85,3
+84,gtHI672Tlbw,DoorDash Medium Level SQL Interview Question,2022-09-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,919,29,2
+85,DmUR2QSNUq8,DoorDash Data Science SQL Interview Question Walkthrough,2022-09-07,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3323,80,8
+86,OLG6_EHMhFk,The One Thing That Keeps Data Scientists Up-to-date,2022-08-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,714,54,4
+87,0EoaJE3ePcE,Use STRING_AGG Function to Solve SQL Questions,2022-08-25,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3612,145,6
+88,JDOAcKTy9Mk,Top 5 Data Science Project Ideas in 2022 to Stay Up To Date as a Data Scientist,2022-08-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3909,183,11
+89,o8cFJmI50Dw,STRING_AGG Function to Solve Data Science Interview Questions,2022-08-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2089,66,9
+90,ggZzHnzYH1s,How To Use Python Window Functions | Solving Amazon Data Science Interview Question,2022-08-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3771,139,9
+91,8zeLdtkY2CQ,Data Science Mock Interview | Salesforce SQL Coding Interview Question,2022-06-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7830,204,23
+92,tnoOz6MzTPg,Python cumsum() | Solving Python Optimization Questions On a Data Science Interview,2022-05-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2925,89,13
+93,OzyHfddLj9g,How to Solve a SQL Interview Question Using WHERE &amp; HAVING | PayPal Data Science Interview,2022-04-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8347,165,13
+94,jN5hpgBrz8k,Dealing With Python Date Manipulations In a Meta/Facebook Data Science Interview Question,2022-03-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6000,175,20
+95,yFyyP_Uvxj0,How To Solve Data Science Probability Interview Questions | Meta/Facebook Example,2022-03-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5190,147,6
+96,Av92CaPTRr8,How to use SQL window functions: RANK vs DENSE_RANK in Data Science Interviews,2022-03-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5793,137,10
+97,VEjxlKBkZGM,Amazon Data Science Interview Question Walkthrough | How to Deal with Streaks in SQL,2022-02-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,10760,283,31
+98,hMUf7DqG1nQ,SQL Basics: How to Join Multiple Tables in SQL and the Importance of LEFT JOIN vs INNER JOIN,2022-01-27,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7293,134,8
+99,ToEl_tpyoM4,Uber Data Science Python Interview Question Walkthrough,2022-01-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,22285,527,30
+100,30hS-MjpU6E,SQL Syntax Best Practices: How to Structure Your SQL Code,2021-12-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,20331,780,54
+101,Bgpp99iz0I0,Most Common Coding Mistakes on Data Science Interviews,2021-11-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5423,228,31
+102,GeJUvdkJKEc,Multiple Solutions to Data Scientist Interview Question From Amazon [Rolling Average],2021-10-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,11568,290,50
+103,GGURenNfXI0,Multiple Approaches for Solving a Twitter Data Scientist Interview Question,2021-09-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6014,211,36
+104,PlpUo6bHsBQ,Advanced Facebook Data Science SQL interview question [RANK()],2021-08-09,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,28934,896,79
+105,uY2wfR8Dkqo,5 Tips for a Successful Data Science Interview,2021-07-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,13289,312,40
+106,yY7yau9j3xk,Data Science SQL Scenario Based Interview Question [Facebook] - Date Manipulation,2021-07-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8631,209,32
+107,i-E4pdU2qXM,Data Science SQL Interview Question Walkthrough [Microsoft] - Window Function: Ranking,2021-07-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,9709,357,24
+108,T1UhSuKqy3A,Most Common Data Science SQL Interview Question from DoorDash [window functions &amp; partitions],2021-06-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,16694,553,43
+109,2iE3JgNTwVU,A Walkthrough of Data Science SQL Interview Question from Noom (Date Manipulations),2021-06-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6342,191,30
+110,RgKMbpEylWA,Comparing FAANG vs Non-FAANG Data Science Interview Questions,2021-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3505,113,16
+111,giGIPINLqJs,An Analysis of 900 Data Science Interview Questions | Data Science Interview Guide,2021-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5359,229,13
+112,77IVf0zgmwI,Importing a Pandas Dataframe to a Database in Python [For Your Data Science Project],2021-05-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,34460,1042,104
+113,xtbMCAVXDmU,Facebook and Microsoft Data Science SQL interview question walkthrough (advanced),2021-04-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,11164,330,61
+114,fklHBWow8vE,Working with APIs in Python [For Your Data Science Project],2021-04-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,100635,4312,229
+115,tNXliLTlrV8,Step-by-step Approach to Solving Any Data Science SQL Interview Question (Twitch),2021-03-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,14699,536,43
+116,XRwxYOhHdE8,Facebook&#39;s Most Common Data Science SQL Interview Question [2021 Interview Question and Answer],2021-03-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,39905,987,63
+117,pV_mnZgzXEo,"Coding Concepts in Data Science Interviews in 2021 (Facebook, Twitch, Postmates)",2021-03-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6298,299,33
+118,c4Af2FcgamA,The One and Only Data Science Project You Need,2021-02-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,294282,17388,353
+119,QenwDm5oWdU,Advanced Data Science SQL Interview Question [Amazon] (window functions &amp; aliasing),2021-02-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,32207,1067,114
+120,TYHWv1vT0Pk,Common Date Manipulations on Data Science SQL Interviews,2021-02-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,24168,896,82
+121,0GpgMvyN0Fg,How I Learned Data Science (resources to get a job) in 2021,2021-02-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,20875,1284,52
+122,VYeevsVj4fU,Advanced SQL Questions From Amazon (Handling complex logic in data science interviews),2021-01-27,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,29842,843,91
+123,vLjAG9eXkcU,Solving Complex SQL Interview Questions [How to organize lengthy code solutions],2021-01-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,15192,463,70
+124,lG0PbUq4wkg,Top Data Science Interview Questions in 2021 [3 concepts tested on all interviews],2021-01-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6613,238,27
+125,j8kGqAAIhxA,Top Data Science Interview Question And Answer Mistakes 2021 [Asked By Amazon],2021-01-06,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5988,171,29
+126,W_IERUwElkg,SQL Case Statements For Data Science Interviews in 2021,2020-12-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,44929,1499,86
+127,eC7MdwKCCOE,Tricky Data Science Interview Question [By Facebook],2020-12-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5279,173,37
+128,XBE09l-UYTE,"SQL Window Functions on Data Science Interviews in 2021 | Asked By Airbnb, Netflix, Twitter, Uber",2020-12-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,79753,2604,173
+129,C0hk-dZ9XSE,SQL Window Functions In a Data Science Interview Question by Airbnb in 2021,2020-12-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5475,183,32
+130,N0aHeKyNEto,Applying Software Engineering Principles To Your Data Science Tasks In Python,2020-12-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6983,286,55
+131,TDwy1lSjEZo,Automating Your Data Science Tasks In Python (importing CSV files to database AUTOMATION TUTORIAL),2020-11-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,21178,601,89
+132,EPUayNC5ku4,SQL Coding Interview Question Using A Window Function (PARTITION BY) | Data Science Interviews,2020-11-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,79414,2352,155
+133,wqBFgaMgFQA,Solve Data Science Tasks In Python (Saving Hours) (automating import CSV files to database),2020-11-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,50098,1402,104
+134,IKw0lkmBHNI,Solving an Airbnb Data Science Coding Interview Question | SQL Interview  [Fav Host Nationality],2020-11-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8043,171,24
+135,_gy1o9UH2dQ,Hard SQL Interview Question From FACEBOOK | Data Science Coding Interviews (Popularity Percentage),2020-11-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,26501,596,82
+136,7Q-2DEwHW7w,Solving a SQL Interview Question by FACEBOOK | (Data Science Interview) SMS Confirmations From Users,2020-10-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7478,142,22
+137,pFwYjaeKFvQ,Solving a Facebook Data Science Interview Questions | (SQL Interview Questions and Answer),2020-10-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5411,83,18
+138,iR8FDQyCtnw,SQL Interview Questions From MICROSOFT | Expensive Projects (Data Science Interview Questions),2020-10-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3510,71,5
+139,1SgHHQeRuxs,How I Prepare For My Data Science Interviews (From a Data Scientist),2020-10-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4994,154,17
+140,UndSRKwsxKM,YELP SQL Data Science Interview Questions | Common Coding Question (Mock Interview Walkthrough),2020-10-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3353,51,20
+141,U9P4M4EPTgI,Intro to Real Data Science Interview Questions and Answers Series (Interview Walkthroughs),2020-09-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4083,70,8
+142,S7gKkRxlk1U,Real Data Science Interview Question From Facebook | Friend Acceptance Rate (Interview Walkthrough),2020-09-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6800,126,20
+143,rMoUoYxfBNk,How To Discuss Trade-offs in a Data Science Interview - Data Science Interview Tip #5,2020-09-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1227,37,6
+144,60NaEc7NP_U,My Data Science Career Path (From Novice to Your First Job) - Your Journey to Data Science,2020-09-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2170,80,5
+145,5-1ClCuQCIw,How to Organize Data Science Interview Solution | Data Science Interview Tip #3,2020-08-30,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3568,38,10
+146,rf2udE9q-SM,How To Get Your First Data Science Job Interview | Data Science Interviews Tip #2,2020-08-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2231,45,8
+147,wqxDfVdZ8wM,18 Most Recommended Data Science Platforms To Learn Python And SQL,2020-08-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3628,141,23
+148,SrqJuUNN62I,Technical Questions on Data Science Interviews Tip #1 | Guarantee The Correct Answer Every Time,2020-08-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3780,73,4
+149,-i9chjBSOqU,merge() Method to Join Multiple Pandas Dataframes - Beginner Python Pandas Tutorial #7,2020-05-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3993,71,26
+150,HRzthi_FqAA,Merge Dataframes Using Concat and Append - Beginner Python Pandas Tutorial #6,2020-05-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1534,46,7
+151,DUgd48QYmfI,"Advanced Use of groupby(), aggregate, filter, transform, apply - Beginner Python Pandas Tutorial #5",2020-05-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,33911,611,54
+152,iwIPnlCHlVQ,Simple Groupby() in Pandas - Beginner Python Pandas Tutorial #4 (interactive python notebook),2020-05-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2984,72,4
+153,mCXZXe-Na3s,Fundamentals of Filtering Data in a Pandas Dataframe - Beginner Python Pandas Tutorial #3,2020-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2045,72,11
+154,JHxojhrCsRs,How to Deal with Nulls in Pandas - Beginner Python Pandas Tutorial #2 (interactive python notebook),2020-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1930,45,6
+155,bM7LSQIKYs8,"Pandas iloc, loc and Dataframes  - Beginner Python Pandas Tutorial #1 (interactive python notebook)",2020-05-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7946,140,15
+156,e6C1Z-o1fyQ,How to Create Boolean Mask for NumPy Arrays - Beginner Python NumPy Exercises #9,2020-05-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2243,28,2
+157,LL7dnUymOvo,A Boolean Mask on NumPy Arrays - Complete Python NumPy Tutorial for Beginners #9,2020-05-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2182,31,3
+158,ceJ4lVXN0T8,NumPy Descriptive Statistics - Beginner Python NumPy Exercises #8,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,677,19,6
+159,ccDPI7v-0QE,Math Operations Arrays using NumPy - Beginner Python NumPy Exercises #7,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,607,10,0
+160,gZGGexOyL9M,Summary Statistics in NumPy - Complete Python NumPy Tutorial for Beginners #8,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,822,13,0
+161,JZfsZuLKaJ4,Arithmetic Operators on Arrays using NumPy - Complete Python NumPy Tutorial for Beginners #7,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,868,13,0
+162,e8o7E13KtJ4,Splitting and Concatenating Arrays - Beginner Python NumPy Exercises #6,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,628,14,0
+163,0hjTJw9Jpmc,How to Reshape NumPy Arrays - Beginner Python NumPy Exercises #5,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,570,8,1
+164,STJA-D-K9Cs,NumPy Multidimensional Array Indexing and Slicing - Beginner Python NumPy Exercises #4,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1525,16,3
+165,Yk3H3VRDfm0,Array Attributes and Accessing Single Elements in NumPy - Beginner Python NumPy Exercises #3,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,802,16,0
+166,dWQvU9p7TdU,Split and Reshape NumPy &amp; Concatenate NumPy Arrays - Complete Python NumPy Tutorial for Beginners #6,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1005,25,0
+167,01kOJUiiEQE,NumPy Slicing and Accessing Subarrays - Complete Python NumPy Tutorial for Beginners #5,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,979,18,0
+168,sKMuioo7Xf8,NumPy Array Index to Access Single Element - Complete Python NumPy Tutorial for Beginners #4,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1254,15,0
+169,aGPjAOhomY4,Useful Array Attributes of NumPy - Complete Python NumPy Tutorial for Beginners #3,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1010,13,0
+170,yLn52ppKO80,How to Create NumPy Array from Scratch - Beginner Python NumPy Exercises #2,2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1366,22,0
+171,mkbgEvUkSaM,NumPy Array vs List in Python - Beginner Python NumPy Exercises #1 (interactive python notebook),2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3644,48,5
+172,F5sKh-3V3KA,How to Create Arrays and Functions in Python - Complete Python NumPy Tutorial for Beginners #2,2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1281,15,0
+173,OVD26YMkT_c,List vs Array Python - Complete Python NumPy Tutorial for Beginners #1 (interactive python notebook),2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1955,29,3
+174,UX4_IgagL9I,How to Use Google Colaboratory | Import a CSV File into a Google Colabs Notebook,2020-05-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2654,16,2
+175,tDdo3FiWpgE,Interview Questions for SQL Joins and Subqueries,2020-02-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1972,28,0
+176,wW827gqxlRY,SQL Job Interview Mistakes #2,2019-09-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1201,20,0
+177,xbc2GpGUXwc,SQL Job Interview Mistakes #1,2019-08-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8222,75,1
+178,n6gM265zG68,SQL Query Interview Questions And Answers From Real Companies | Prepare For Your SQL Interview,2019-06-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,44691,582,9
