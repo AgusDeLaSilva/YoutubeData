@@ -1,0 +1,527 @@
+,video_id,video_title,published_date,channel_title,channel_id,view_count,comment_count,like_count
+0,o3Yau5MJDZ4,When Does A Senior Data Scientist Actually Code? A Day In The Life,2023-12-06,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,660,1,30
+1,GSMCs3EmlmU,Short Primer on Tree-Based Machine Learning Models,2023-11-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,488,3,21
+2,cEannyn5exA,What Visualization Frameworks Do You Need To Learn As A Data Scientist?,2023-11-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,989,1,37
+3,tT7STcGCvUY,Cleaning Data Like a 10x Data Scientist,2023-11-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1793,2,80
+4,O4FXdudaZAY,10 Ways Not To Suck On Coding Interviews For Data Science,2023-11-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,893,0,27
+5,q9HJ3hGjdo4,5 Skills Companies Look For in Data Science Candidates + 5 Project Ideas,2023-10-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1120,0,52
+6,WS0fM1agxTk,Master SQL Subqueries with Multiple Tables,2023-09-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1875,4,54
+7,mqHQwF6_r1E,6 Stages of Data Science Project,2023-09-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1591,4,95
+8,oJglmpO_esU,3 Data Science Projects To Land A Job,2023-09-06,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2542,9,117
+9,4uVxxj07cRE,Is SQL Really the ONLY Language You Need for Data Science?,2023-08-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1420,8,68
+10,3FRoEyC0hdI,How To Be a Lazy Data Scientist With AI Chrome Extensions,2023-08-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,970,1,69
+11,EDArFuFl0tU,3 Popular Machine Learning Algorithms In 5 Min,2023-08-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,757,3,27
+12,0rSuMJB6IE4,6 Skills for the New Data Scientist,2023-07-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1759,10,120
+13,Y0hCQsCMIZM,15 ChatGPT Plugins for Data Science,2023-07-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1139,6,72
+14,pBC6DJRBzSw,Unsupervised Feature Selection for Machine Learning in 5 Mins,2023-07-12,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,925,3,16
+15,vuJi4lF52YU,Feature Selection for Machine Learning In 5 Mins,2023-07-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,731,3,28
+16,rDteKsifPow,Filtered Based Feature Selection for Machine Learning In 5 Mins,2023-06-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1030,4,38
+17,1TgQf5WA9Mw,Analyzing Movie Reviews: A 3-Step Approach to Predict Movie Rating,2023-06-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,291,0,9
+18,kcTrK4xxhPk,Mastering Movie Classification: Rotten Tomatoes Data Project [Part 2],2023-06-21,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1102,1,18
+19,l9DMUrJQAzY,Text Analysis Made Easy: Tokenization for ML Algorithms,2023-06-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,407,0,8
+20,AuNuF7lCI8w,SMOTE: Tackling Imbalanced Data in Machine Learning,2023-06-09,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,523,0,23
+21,Qh9ajFNeIEc,Data Project: Analyzing Review Sentiment for Accurate Ratings [Part 1],2023-06-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,840,0,21
+22,J4rheMtvu6g,[Part 3]: Random Forest Classifier For A Facebook Data Science Project of Movie Ratings,2023-05-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,493,0,7
+23,3iqH-yNQFUw,Exploring Decision Tree and Random Forest Classifiers | Machine Learning Algorithms,2023-05-30,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1084,0,35
+24,Ih6G5hnn30Q,[Part 2]: Exploring Decision Tree Classifiers For A Facebook Data Science Project of Movie Ratings,2023-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,565,1,17
+25,REGDQyCBY0I,Rotten Tomatoes Movie Rating Prediction - Data Science Project,2023-05-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,220,0,6
+26,cM12QtrhdLo,[Part 1]: Exploring and Visualizing Data For A Facebook Data Science Project of Movie Ratings,2023-05-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,959,3,21
+27,A9QzeBFj5GY,Python Pandas: Understanding Percentage Ranking Method,2023-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,338,0,13
+28,Cg66PLiW9L0,Data Ranking: Python Pandas and SQL Equivalents [Part 2],2023-05-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,632,1,18
+29,d2neUrrUSu0,Python for Data Analysis: Probability And Binomial Distribution,2023-05-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,928,0,31
+30,MO1TY636-YA,A Python Approach to Solving Probability Interview Question for Data Science,2023-04-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1112,0,35
+31,f6P1nuQXsC0,Using IFNULL() Function in MySQL to Avoid Null Value Errors,2023-04-25,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,522,0,16
+32,rbRYsAgwPBA,Using IFNULL() on a Google SQL Interview Question,2023-04-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2472,4,54
+33,IWo8H8U_Ugk,Sorting and Ranking Data in Python: An Overview of the Rank() Function,2023-04-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,296,0,9
+34,2uu0prXMhfU,How to Rank() Your Data In Python Pandas [Part 1],2023-04-12,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1171,1,48
+35,sF6gngs9myY,38 Data Science Tools For Beginners to Experts,2023-04-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2130,12,151
+36,Y5-eAFnxMjU,Maximizing Profits: Solving the Uber Data Project Scenario Two,2023-04-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,351,0,14
+37,xlppLbv7nb0,Using Python Pandas for Building Uber&#39;s Business Models [Part 3],2023-03-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1254,0,26
+38,Mkhdz2TLP2E,Uber Data Project: Exploring Bonus Payout with Data Analysis,2023-03-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,665,0,24
+39,-Lzi4Qoy2v4,Using Python Pandas To Answer Business Questions For An Uber Data Science Project [Part 2],2023-03-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1047,3,29
+40,pqeUTfNFBCU,Exploring and Cleaning Data: The First Step in Every Data Project,2023-03-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5899,4,233
+41,ZOthTms86Bw,Exploratory Data Analysis For An Uber Python Data Science Project [Part 1],2023-03-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2472,0,82
+42,9oNY9EV3MiM,Speed up your Python Data Manipulation with Lambda Filter Function,2023-02-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,968,0,29
+43,YN-5NQO4iSU,Solving Amazon Interview Questions with Lambda Filter Function in Python,2023-02-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1004,2,40
+44,ltzJhIs8voQ,Mastering SQL String Manipulation with Regex_split_to_table() function,2023-02-21,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,567,2,36
+45,BgN5hpl3WKc,Solving a Tricky Google SQL Question with String Manipulation,2023-02-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2341,4,56
+46,GxR66KdqBFU,Analyzing Datasets with Window Functions: First Value Syntax and Examples,2023-02-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,529,2,17
+47,-KXluZNAYrA,Window Function in SQL: A Step-by-Step Guide to Solve Amazon Interview Question,2023-02-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2234,10,77
+48,Xzr7PMeqXyU,Crush Your Data Science Interview: Master Group By and Aggregate Functions in Python,2023-02-07,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,432,1,22
+49,f-9SnlALFac,Group By &amp; Aggregate Functions to Solve Python Coding Questions,2023-02-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,971,4,39
+50,iN9H3Bau05k,Airbnb Python Coding Practice for Interview,2023-01-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1626,0,57
+51,_XbrEcgQYSA,How to Use the Lambda Function in Python to Solve Interview Questions,2023-01-25,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1158,4,31
+52,pqQG_tNXncc,Classical Machine Learning [DoorDash Data Science Project],2023-01-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2776,4,61
+53,g7Lt_Kqn0wA,Hard SQL Interview Question from Wine Magazine,2023-01-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,615,0,21
+54,vdmCxvaRdLU,Using Rank() and PARTITIONs in SQL To Solve Complex SQL Interview Questions,2023-01-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2372,10,71
+55,A1U4TPxZ0CE,Correlation Matrix in Python to Solve a DoorDash Data Science Task,2023-01-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,730,0,33
+56,gh5JzALBQvU,How To Handle Multicollinearity and Feature Selection [DoorDash Data Science Project],2023-01-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2895,9,88
+57,m3zEV10qvE8,Collinearity and Removing Redundancies [DoorDash Data Science Project],2022-12-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2203,8,69
+58,G7fvAkj9gQs,How to Build a DoorDash Prediction Model with Python,2022-12-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1486,0,43
+59,Sf6jn8QZHhc,Data Preparation for Modeling [DoorDash Data Science Project],2022-12-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4731,23,98
+60,AM4nPwvUtTo,Python Data Science Projects for Beginners - Boost Your Portfolio in 2023,2022-12-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2590,5,145
+61,Vt-POo9tEB8,Spotify Days At Number One SQL Question,2022-12-07,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,620,0,25
+62,93quPoReV1M,SQL Solution to SPOTIFY Days At Number One Question,2022-12-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3494,5,109
+63,6xo0cn0BpKs,How to Solve a Forbes Interview Question Using the Sample() Function,2022-11-30,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,712,0,17
+64,a8T88wCrmAQ,Solving FORBES Coding Interview Questions in PYTHON: 3 Simple Steps!,2022-11-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1542,10,58
+65,i80pkW8YeKI,Data Provides vs Data Users: Choose Your Job in Data Science,2022-11-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1415,2,21
+66,yoUO84tOH3c,Edge Case Alert in Python Interview Question Solving [Part 2],2022-11-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,431,0,14
+67,qbN_t6sh4_E,Data Science Job Types &amp; Careers,2022-11-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,739,3,35
+68,9quwCoQ6CoU,Meta Product Families: head() Function to Explore the Data [Part 1],2022-11-09,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,261,0,5
+69,RmMuS5iiviI,Python Pandas Techniques In A Meta Data Science Interview,2022-11-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1743,1,56
+70,bppeYE-VUSQ,Data Science Interview Simple Tips: How to Answer the Additional Question,2022-10-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,663,0,26
+71,0EKPN19Y9MA,How many Twitch viewers became streamers? A SQL coding question,2022-10-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,376,0,13
+72,vQmk0bH25d0,[Part 2] EDGE Cases in Data Analysis: How to Reduce the Risk of Missing Important Details,2022-10-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,455,0,4
+73,M-dT_0m4qhI,SQL interview: How many Twitch viewers became streamers?,2022-10-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3222,7,95
+74,rEaSskQhId4,[Part 1] How to Solve an Amazon Python Interview Question - The 3-Step Framework,2022-10-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,613,0,18
+75,8IIryKHheYw,(Part 3) How to Formulate the Approach for Solving SQL Interview Questions,2022-10-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,292,0,4
+76,yQSZT65WET4,A Python Coding Interview Question From Amazon,2022-10-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1595,5,48
+77,OMHbYrL09io,A/B Testing (A) Interview Questions or (B) for Data Scientists,2022-10-12,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2305,0,88
+78,SGDchcWjaTA,(Part 2) Deepen Your Understanding of Data with These Simple Tips,2022-10-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,573,0,20
+79,9av7jQ9MA44,A/B Testing Concepts To Know For Data Science,2022-10-06,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2961,7,131
+80,nh2nLDpxDFI,(Part 1) Meta SQL Interview Question: Identify the Popular Posts,2022-10-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,631,0,28
+81,Q-3wvYInCeI,Meta SQL Interview Question - A Step-By-Step Solution,2022-09-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4887,11,127
+82,0cYfw5mWJ-E,How to Perform Data Analysis with Python for Freedom Debt Relief,2022-09-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,567,5,33
+83,sVdNVgtpkD4,A Python Project to Solve Your Debt Problems,2022-09-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6175,16,218
+84,M4shTrIgXs0,3 Simple Steps to Solve Noom SQL Interview Questions,2022-09-21,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,525,1,15
+85,5Lpbw71xR3o,Framework to Solve Noom Advanced SQL Interview Question,2022-09-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2850,3,85
+86,gtHI672Tlbw,DoorDash Medium Level SQL Interview Question,2022-09-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,934,2,29
+87,DmUR2QSNUq8,DoorDash Data Science SQL Interview Question Walkthrough,2022-09-07,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3389,8,81
+88,OLG6_EHMhFk,The One Thing That Keeps Data Scientists Up-to-date,2022-08-31,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,714,4,54
+89,0EoaJE3ePcE,Use STRING_AGG Function to Solve SQL Questions,2022-08-25,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3617,6,145
+90,JDOAcKTy9Mk,Top 5 Data Science Project Ideas in 2022 to Stay Up To Date as a Data Scientist,2022-08-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3916,11,184
+91,o8cFJmI50Dw,STRING_AGG Function to Solve Data Science Interview Questions,2022-08-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2099,9,66
+92,ggZzHnzYH1s,How To Use Python Window Functions | Solving Amazon Data Science Interview Question,2022-08-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3790,9,139
+93,8zeLdtkY2CQ,Data Science Mock Interview | Salesforce SQL Coding Interview Question,2022-06-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7894,23,204
+94,tnoOz6MzTPg,Python cumsum() | Solving Python Optimization Questions On a Data Science Interview,2022-05-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2931,13,89
+95,OzyHfddLj9g,How to Solve a SQL Interview Question Using WHERE &amp; HAVING | PayPal Data Science Interview,2022-04-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8375,13,165
+96,jN5hpgBrz8k,Dealing With Python Date Manipulations In a Meta/Facebook Data Science Interview Question,2022-03-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6017,20,174
+97,yFyyP_Uvxj0,How To Solve Data Science Probability Interview Questions | Meta/Facebook Example,2022-03-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5245,6,147
+98,Av92CaPTRr8,How to use SQL window functions: RANK vs DENSE_RANK in Data Science Interviews,2022-03-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5807,10,138
+99,VEjxlKBkZGM,Amazon Data Science Interview Question Walkthrough | How to Deal with Streaks in SQL,2022-02-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,10778,31,283
+100,hMUf7DqG1nQ,SQL Basics: How to Join Multiple Tables in SQL and the Importance of LEFT JOIN vs INNER JOIN,2022-01-27,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7343,8,134
+101,ToEl_tpyoM4,Uber Data Science Python Interview Question Walkthrough,2022-01-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,22339,30,528
+102,30hS-MjpU6E,SQL Syntax Best Practices: How to Structure Your SQL Code,2021-12-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,20485,54,784
+103,Bgpp99iz0I0,Most Common Coding Mistakes on Data Science Interviews,2021-11-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5428,31,228
+104,GeJUvdkJKEc,Multiple Solutions to Data Scientist Interview Question From Amazon [Rolling Average],2021-10-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,11602,50,290
+105,GGURenNfXI0,Multiple Approaches for Solving a Twitter Data Scientist Interview Question,2021-09-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6025,36,211
+106,PlpUo6bHsBQ,Advanced Facebook Data Science SQL interview question [RANK()],2021-08-09,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,28976,79,896
+107,uY2wfR8Dkqo,5 Tips for a Successful Data Science Interview,2021-07-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,13296,40,312
+108,yY7yau9j3xk,Data Science SQL Scenario Based Interview Question [Facebook] - Date Manipulation,2021-07-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8669,32,209
+109,i-E4pdU2qXM,Data Science SQL Interview Question Walkthrough [Microsoft] - Window Function: Ranking,2021-07-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,9733,24,357
+110,T1UhSuKqy3A,Most Common Data Science SQL Interview Question from DoorDash [window functions &amp; partitions],2021-06-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,16743,43,555
+111,2iE3JgNTwVU,A Walkthrough of Data Science SQL Interview Question from Noom (Date Manipulations),2021-06-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6362,30,191
+112,RgKMbpEylWA,Comparing FAANG vs Non-FAANG Data Science Interview Questions,2021-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3506,16,113
+113,giGIPINLqJs,An Analysis of 900 Data Science Interview Questions | Data Science Interview Guide,2021-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5376,13,230
+114,77IVf0zgmwI,Importing a Pandas Dataframe to a Database in Python [For Your Data Science Project],2021-05-05,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,34600,104,1045
+115,xtbMCAVXDmU,Facebook and Microsoft Data Science SQL interview question walkthrough (advanced),2021-04-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,11185,61,331
+116,fklHBWow8vE,Working with APIs in Python [For Your Data Science Project],2021-04-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,101171,229,4330
+117,tNXliLTlrV8,Step-by-step Approach to Solving Any Data Science SQL Interview Question (Twitch),2021-03-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,14764,43,538
+118,XRwxYOhHdE8,Facebook&#39;s Most Common Data Science SQL Interview Question [2021 Interview Question and Answer],2021-03-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,39972,63,988
+119,pV_mnZgzXEo,"Coding Concepts in Data Science Interviews in 2021 (Facebook, Twitch, Postmates)",2021-03-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6308,33,299
+120,c4Af2FcgamA,The One and Only Data Science Project You Need,2021-02-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,294902,353,17406
+121,QenwDm5oWdU,Advanced Data Science SQL Interview Question [Amazon] (window functions &amp; aliasing),2021-02-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,32245,114,1067
+122,TYHWv1vT0Pk,Common Date Manipulations on Data Science SQL Interviews,2021-02-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,24211,82,898
+123,0GpgMvyN0Fg,How I Learned Data Science (resources to get a job) in 2021,2021-02-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,20893,52,1285
+124,VYeevsVj4fU,Advanced SQL Questions From Amazon (Handling complex logic in data science interviews),2021-01-27,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,29885,91,842
+125,vLjAG9eXkcU,Solving Complex SQL Interview Questions [How to organize lengthy code solutions],2021-01-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,15231,70,464
+126,lG0PbUq4wkg,Top Data Science Interview Questions in 2021 [3 concepts tested on all interviews],2021-01-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6627,27,238
+127,j8kGqAAIhxA,Top Data Science Interview Question And Answer Mistakes 2021 [Asked By Amazon],2021-01-06,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6024,29,171
+128,W_IERUwElkg,SQL Case Statements For Data Science Interviews in 2021,2020-12-28,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,44950,86,1497
+129,eC7MdwKCCOE,Tricky Data Science Interview Question [By Facebook],2020-12-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5287,37,173
+130,XBE09l-UYTE,"SQL Window Functions on Data Science Interviews in 2021 | Asked By Airbnb, Netflix, Twitter, Uber",2020-12-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,79815,173,2604
+131,C0hk-dZ9XSE,SQL Window Functions In a Data Science Interview Question by Airbnb in 2021,2020-12-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5493,32,183
+132,N0aHeKyNEto,Applying Software Engineering Principles To Your Data Science Tasks In Python,2020-12-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7030,55,288
+133,TDwy1lSjEZo,Automating Your Data Science Tasks In Python (importing CSV files to database AUTOMATION TUTORIAL),2020-11-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,21284,89,602
+134,EPUayNC5ku4,SQL Coding Interview Question Using A Window Function (PARTITION BY) | Data Science Interviews,2020-11-19,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,79449,155,2350
+135,wqBFgaMgFQA,Solve Data Science Tasks In Python (Saving Hours) (automating import CSV files to database),2020-11-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,50386,104,1410
+136,IKw0lkmBHNI,Solving an Airbnb Data Science Coding Interview Question | SQL Interview  [Fav Host Nationality],2020-11-11,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8063,24,171
+137,_gy1o9UH2dQ,Hard SQL Interview Question From FACEBOOK | Data Science Coding Interviews (Popularity Percentage),2020-11-04,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,26521,82,596
+138,7Q-2DEwHW7w,Solving a SQL Interview Question by FACEBOOK | (Data Science Interview) SMS Confirmations From Users,2020-10-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,7496,22,142
+139,pFwYjaeKFvQ,Solving a Facebook Data Science Interview Questions | (SQL Interview Questions and Answer),2020-10-22,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5423,18,83
+140,iR8FDQyCtnw,SQL Interview Questions From MICROSOFT | Expensive Projects (Data Science Interview Questions),2020-10-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3534,5,71
+141,1SgHHQeRuxs,How I Prepare For My Data Science Interviews (From a Data Scientist),2020-10-18,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,5000,17,154
+142,UndSRKwsxKM,YELP SQL Data Science Interview Questions | Common Coding Question (Mock Interview Walkthrough),2020-10-10,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3367,20,51
+143,U9P4M4EPTgI,Intro to Real Data Science Interview Questions and Answers Series (Interview Walkthroughs),2020-09-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4092,8,70
+144,S7gKkRxlk1U,Real Data Science Interview Question From Facebook | Friend Acceptance Rate (Interview Walkthrough),2020-09-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,6817,20,126
+145,rMoUoYxfBNk,How To Discuss Trade-offs in a Data Science Interview - Data Science Interview Tip #5,2020-09-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1228,6,37
+146,60NaEc7NP_U,My Data Science Career Path (From Novice to Your First Job) - Your Journey to Data Science,2020-09-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2170,5,80
+147,5-1ClCuQCIw,How to Organize Data Science Interview Solution | Data Science Interview Tip #3,2020-08-30,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3575,10,38
+148,rf2udE9q-SM,How To Get Your First Data Science Job Interview | Data Science Interviews Tip #2,2020-08-20,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2233,8,45
+149,wqxDfVdZ8wM,18 Most Recommended Data Science Platforms To Learn Python And SQL,2020-08-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3636,23,141
+150,SrqJuUNN62I,Technical Questions on Data Science Interviews Tip #1 | Guarantee The Correct Answer Every Time,2020-08-08,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3787,4,73
+151,-i9chjBSOqU,merge() Method to Join Multiple Pandas Dataframes - Beginner Python Pandas Tutorial #7,2020-05-29,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,4050,26,72
+152,HRzthi_FqAA,Merge Dataframes Using Concat and Append - Beginner Python Pandas Tutorial #6,2020-05-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1555,7,46
+153,DUgd48QYmfI,"Advanced Use of groupby(), aggregate, filter, transform, apply - Beginner Python Pandas Tutorial #5",2020-05-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,34396,54,619
+154,iwIPnlCHlVQ,Simple Groupby() in Pandas - Beginner Python Pandas Tutorial #4 (interactive python notebook),2020-05-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3008,4,72
+155,mCXZXe-Na3s,Fundamentals of Filtering Data in a Pandas Dataframe - Beginner Python Pandas Tutorial #3,2020-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2066,11,72
+156,JHxojhrCsRs,How to Deal with Nulls in Pandas - Beginner Python Pandas Tutorial #2 (interactive python notebook),2020-05-24,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1947,6,45
+157,bM7LSQIKYs8,"Pandas iloc, loc and Dataframes  - Beginner Python Pandas Tutorial #1 (interactive python notebook)",2020-05-23,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8001,15,141
+158,e6C1Z-o1fyQ,How to Create Boolean Mask for NumPy Arrays - Beginner Python NumPy Exercises #9,2020-05-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2265,2,29
+159,LL7dnUymOvo,A Boolean Mask on NumPy Arrays - Complete Python NumPy Tutorial for Beginners #9,2020-05-17,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2211,3,31
+160,ceJ4lVXN0T8,NumPy Descriptive Statistics - Beginner Python NumPy Exercises #8,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,686,6,19
+161,ccDPI7v-0QE,Math Operations Arrays using NumPy - Beginner Python NumPy Exercises #7,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,615,0,10
+162,gZGGexOyL9M,Summary Statistics in NumPy - Complete Python NumPy Tutorial for Beginners #8,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,851,0,13
+163,JZfsZuLKaJ4,Arithmetic Operators on Arrays using NumPy - Complete Python NumPy Tutorial for Beginners #7,2020-05-16,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,895,0,13
+164,e8o7E13KtJ4,Splitting and Concatenating Arrays - Beginner Python NumPy Exercises #6,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,634,0,14
+165,0hjTJw9Jpmc,How to Reshape NumPy Arrays - Beginner Python NumPy Exercises #5,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,579,1,8
+166,STJA-D-K9Cs,NumPy Multidimensional Array Indexing and Slicing - Beginner Python NumPy Exercises #4,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1571,3,16
+167,Yk3H3VRDfm0,Array Attributes and Accessing Single Elements in NumPy - Beginner Python NumPy Exercises #3,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,808,0,16
+168,dWQvU9p7TdU,Split and Reshape NumPy &amp; Concatenate NumPy Arrays - Complete Python NumPy Tutorial for Beginners #6,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1030,0,25
+169,01kOJUiiEQE,NumPy Slicing and Accessing Subarrays - Complete Python NumPy Tutorial for Beginners #5,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1011,0,18
+170,sKMuioo7Xf8,NumPy Array Index to Access Single Element - Complete Python NumPy Tutorial for Beginners #4,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1291,0,15
+171,aGPjAOhomY4,Useful Array Attributes of NumPy - Complete Python NumPy Tutorial for Beginners #3,2020-05-14,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1050,0,13
+172,yLn52ppKO80,How to Create NumPy Array from Scratch - Beginner Python NumPy Exercises #2,2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1377,0,22
+173,mkbgEvUkSaM,NumPy Array vs List in Python - Beginner Python NumPy Exercises #1 (interactive python notebook),2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,3657,5,48
+174,F5sKh-3V3KA,How to Create Arrays and Functions in Python - Complete Python NumPy Tutorial for Beginners #2,2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1332,0,15
+175,OVD26YMkT_c,List vs Array Python - Complete Python NumPy Tutorial for Beginners #1 (interactive python notebook),2020-05-13,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2010,3,29
+176,UX4_IgagL9I,How to Use Google Colaboratory | Import a CSV File into a Google Colabs Notebook,2020-05-02,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,2662,2,16
+177,tDdo3FiWpgE,Interview Questions for SQL Joins and Subqueries,2020-02-01,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1977,0,28
+178,wW827gqxlRY,SQL Job Interview Mistakes #2,2019-09-15,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,1204,0,20
+179,xbc2GpGUXwc,SQL Job Interview Mistakes #1,2019-08-03,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,8228,1,75
+180,n6gM265zG68,SQL Query Interview Questions And Answers From Real Companies | Prepare For Your SQL Interview,2019-06-26,StrataScratch,UCW8Ews7tdKKkBT6GdtQaXvQ,44724,9,581
+181,TR7AGmey1C8,How I&#39;d Learn AI (If I Had to Start Over),2023-11-29,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,34218,60,1465
+182,HKYULsQr_U0,Should You Still Learn to Code in 2024? #coding #datascience  #ai,2023-11-12,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,5965,10,281
+183,fhFz0JfGvfc,I Created a Custom GPT for Data Science Nerds 👩🏻‍💻,2023-11-11,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,78336,76,1224
+184,lp6SfYCRGLM,🤯 AI Is Taking Over Data Jobs: Here&#39;s What To Do About It,2023-10-16,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,6101,32,382
+185,uGynMyXCcg8,📚 BEST AI Books to Read in 2023,2023-10-09,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,8084,11,821
+186,EzVIkHQWnhc,Doing Data Analysis on Sensitive Data (ft. Oblivious),2023-08-22,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,5469,30,264
+187,8sLq4P-QDL0,I Tried ChatGPT Code Interpreter for Data Tasks - it&#39;s a game changer!,2023-07-15,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,37726,57,1784
+188,3736Pd_hwFQ,Become a PRO with These 40 Data science Productivity Tips,2023-07-08,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,13418,62,697
+189,PvnSSrnjLX8,Self-taught vs. Guided Program: CareerFoundry&#39;s Data Analytics Program Review,2023-06-16,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,7908,33,237
+190,S5U76LPu_bQ,Is a Computer Science Degree WORTHLESS 🤯? (in the age of AI),2023-06-08,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,20863,59,696
+191,l2YU8QuXiTM,ChatGPT + Jupyter Notebook = Mindblowing! 🤩,2023-05-28,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,23134,69,950
+192,dYQfgcd0XD4,Love ❤️ JupyterCon Paris 2023,2023-05-22,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,5748,14,399
+193,0JDsvZHooNU,"AI replacing jobs, mistakes, relationships (and other things): 140K subs Q&amp;A",2023-05-15,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,5836,33,283
+194,kHdAb8yBBDI,Will ChatGPT Code Interpreter Replace Data Analysts?,2023-05-12,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,59690,62,3013
+195,tSiS15ubQFQ,How to Deploy Machine Learning Models (ft. Runway),2023-05-10,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,70296,31,947
+196,c3Uvz75kVd4,Will AI be THE END of us?,2023-04-21,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,7243,49,359
+197,aYorBPF05Rw,How I&#39;d Learn to Become a Data Analyst,2023-04-09,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,284926,64,16979
+198,N1UMycRJbAw,Roadmap for Transitioning to Data Analytics in 2023,2023-03-31,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,415030,333,16558
+199,7yGolPv8AOs,If Learning Data Science Is Like Rock Climbing,2023-03-19,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,19438,21,1094
+200,EE1Y2enHrcU,Building a Chatbot with ChatGPT API and Reddit Data,2023-03-15,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,45919,116,2160
+201,K2wffRzTvBM,I asked ChatGPT to do EDA for me: Here&#39;s how it went,2023-02-26,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,347806,137,11980
+202,JPHS10dt_CY,Math for Machine Learning and Data Science Specialization Review | Why You Need to Learn Math 🤔,2023-02-16,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,42037,79,2119
+203,hucuMCZBbIY,Will AI Replace Data Scientists? 🤔,2023-02-04,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,67173,208,1972
+204,tpGawyNMRLM,My Entire Process for Doing Data Science Projects (ft. Notion),2023-01-23,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,44381,94,1908
+205,_8EV4tdJY2M,How to ACTUALLY Achieve Your Data Science Goals in 2023 (ft. Peter Akkies),2022-12-30,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,23213,41,904
+206,QnGotm29cZE,Full Stack Data Science Roadmap 2023,2022-12-22,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,162859,180,6417
+207,ZfN8nG0luig,RECESSION 2023: Should You Worry About Data Science Jobs? 📉,2022-12-05,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,43295,89,1744
+208,GM8nrVBFdFo,DON&#39;T DO THIS: Revealing biggest mistakes in data visualization 📈,2022-11-25,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,36216,91,1763
+209,GYxiuFRkS58,💡Awesome Data Portfolio Project Ideas #shorts #datascience,2022-11-16,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,220469,96,17622
+210,UmFwybBiDt0,📚3 In-Depth Machine Learning Books You Can&#39;t Miss! #machinelearning #datascience #shorts,2022-11-13,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,64055,49,6113
+211,N0o-Bjiwt0M,I Analyzed 1000 Data Science Books on Amazon: Here&#39;s What I Found 🤓,2022-11-10,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,135998,191,4955
+212,JsZiFysJS1U,"Moving Abroad, Data Science Careers, Job Searching: 60K subs Q&amp;A",2022-10-24,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,23492,73,949
+213,uFTd2b23GvI,Best Data Science Books for Beginners 📚,2022-10-08,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,286738,240,15479
+214,ho9vNL4MYZ8,Top Courses to Learn Data Science Skills FAST!,2022-09-27,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,158903,169,8089
+215,hFLp_aP8iQQ,"Learn Data Science on iPad | Coding on iPad, note-taking and more",2022-09-16,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,52596,50,1230
+216,fClT4PWlGoA,The Best Jupyterlab Extension That You Didn&#39;t Know Existed!,2022-09-05,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,146307,102,2357
+217,p5MwJuZZYYY,👩🏻‍💻 How I Self-Study Anything (as a Data Scientist),2022-08-15,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,417057,363,21765
+218,B11nK1QCPRA,👩🏻‍💻 How to Create a Python Dashboard for Audio Data | AssemblyAI + Panel,2022-08-02,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,13679,70,599
+219,O_7f4MGeCKE,What I Learned in My Online BSc Computer Science Degree (University of London),2022-07-10,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,121039,364,4358
+220,5gf2ntjVGe8,Andrew Ng’s Machine Learning Specialization 2022 | What is it and is it worth taking?,2022-06-29,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,107965,191,3966
+221,fAHkJ_Dhr50,Network of The Witcher | Relationship Extraction &amp; Network Analysis with Spacy &amp; NetworkX,2022-06-18,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,82379,185,3519
+222,OIj_uTLplPA,Real-Time Work/Study With Me - 1 Hour With Music,2022-06-06,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,8016,31,196
+223,RuNolAh_4bU,Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1,2022-05-28,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,39656,122,1895
+224,lpSw_RAPmgc,👩🏻‍💻 How to learn Data Science FASTER,2022-05-21,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,75412,141,4086
+225,UiG8q67Z2XU,Data Science Side Hustles: A Guide to Technical Writing ft. Sophia Yang,2022-05-06,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,12478,51,531
+226,A8Abf3u0ZIs,How to Learn Math for Data Science (and stay sane!),2022-04-30,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,178685,295,8355
+227,OEVNDRZxgz8,How to Create a Portfolio Website for Data Science👩🏻‍💻 | Stackbit + Netlify,2022-04-23,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,41986,107,1821
+228,lkMh1g41drk,"Data Science Career, Work-life Balance, Study: 15K Sub Q&amp;A",2022-04-14,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,10994,68,432
+229,qdzuq_o8-dI,👩🏻‍💻 Why Macbook M1 Pro 2021 is the BEST laptop for Data Science,2022-03-28,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,65578,173,1672
+230,eiZbEcMX3b4,How I come up with Data Project IDEAS 💡,2022-03-18,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,38192,165,2240
+231,uhxiXOTKzfs,How to Create a Beautiful Python Visualization Dashboard With Panel/Hvplot,2022-03-10,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,476822,557,19647
+232,nNfco7k7Hi0,🤦🏻‍♀️ Biggest Mistakes Aspiring Data Scientists Make,2022-02-25,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,10749,61,643
+233,MsdyvI3ZI5k,"Data Science Salaries in Amsterdam: Talking about Money 🤑, Benefits &amp; Dutch Working Culture",2022-02-18,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,26290,70,948
+234,U2v76H_B1rs,What Data Science Courses DON&#39;T TEACH YOU 🤫,2022-02-06,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,160799,323,7852
+235,8PYJFSGlmmQ,Why I went back to school to study Computer Science (despite having a &#39;good&#39; job)👩🏻‍💻,2022-01-30,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,18005,107,781
+236,D56_Cx36oGY,Youtube API for Python: How to Create a Unique Data Portfolio Project,2022-01-22,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,58099,177,2694
+237,zai2pLUD9FA,👉 STOP Using Jupyter Notebook! Here&#39;s the Better Tool,2022-01-15,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,230939,319,6643
+238,ir2uJg4DF4k,Data Analyst Career Transition: TOP 5 SKILLS (2022),2022-01-01,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,9988,35,619
+239,XYKuslcJp7A,🤩 Build Awesome Data Analytics Portfolio from Scratch in 2022 // 4 Portfolio project ideas,2021-12-22,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,370928,258,15498
+240,qPxPoRNIUZk,Awesome FREE cheat sheets for learning SQL &amp; Python,2021-11-30,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,8514,29,449
+241,q3gWZkQ4PjU,Object-oriented Programming Visually Explained for Data scientists,2021-11-14,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,8064,17,341
+242,0srU1L8wL0U,Is That Job Worth Taking? // Insights From 5 Years In Data Science,2021-11-07,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,1795,12,81
+243,qjLHX3RCayI,Analyze My Monthly Expenses - 15 Minute Data Analysis Challenge in R,2021-10-18,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,7020,38,305
+244,Kq5iPtAc_3I,Data Analysis: How Much STATISTICS Do You Need to Know?,2021-09-24,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,69175,72,2801
+245,RM43xgiJhjQ,Data Analyst vs. Data Scientist vs. Business Analyst // Do you need a CS degree?,2021-09-06,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,7206,40,335
+246,UQ08HuBrl7E,Why Data Analysis Sucks.,2021-08-29,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,14563,45,619
+247,IjLRk2Q_A0U,Exploratory Data Analysis on Covid-19 Dataset | Data Profiling &amp; Visualization,2021-08-23,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,9124,24,253
+248,LEH8TtCCYbM,👩‍💼 How to Ace Data Analyst Interviews // Prepare With Me ft. Alex the analyst,2021-08-14,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,64813,61,1950
+249,CmC3FixsdIk,👩‍💻 A day in my life as a Data Science Consultant // WFH edition,2021-08-08,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,5265,23,127
+250,Y0c6cdbs4og,🤓 Best Productivity Tips in R for Data Analysts and Scientists,2021-08-07,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,6802,19,283
+251,XAoZbtIsgU0,👩‍💻 Learn Data Analyses and Statistics Faster: Best Visual Learning Resources,2021-07-30,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,5460,20,392
+252,Q9LkrbgaRUI,📶 Google Data Analytics Certificate // Is it worth it + Pros and Cons,2021-07-26,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,11596,39,466
+253,C9dWbD1Rrvc,How I Got a Data Analyst Job 🤩// Economics to Data Analyst Transition,2021-07-12,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,19691,104,908
+254,85X8D0-5mfc,🤔How to Stand Out as a Junior Data Scientist/ Data Analyst,2021-06-28,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,9891,29,508
+255,5LWoJAh-kww,Data Analyst Skill Stack // How I Became A Data Analyst,2021-06-16,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,32386,72,1783
+256,_RzoHVWKwq4,Effective visual note-taking on iPad + Downloadable resources,2021-06-09,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,9988,11,351
+257,hWKLO7GtpiU,Data scientist is NOT the only SEXY job // All data careers explained,2021-06-01,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,8544,20,289
+258,dBZqggW22rs,"How I take notes on iPad Pro | Notion, Notes, Procreate for study and personal projects",2021-05-16,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,10360,19,255
+259,QDdqsFCIxIk,How to stay focused and productive online with these computer tricks,2021-04-30,Thu Vu data analytics,UCJQJAI7IjbLcpsjWdSzYz0Q,4317,15,157
+260,kifhSqep9UM,Analyst Builder Full Launch LiveStream | 20% Off Code &amp; Giveaways,2023-12-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,0,0,18
+261,dCNjUOc1cBY,Having vs Where in MySQL | Beginner MySQL Series,2023-12-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3169,14,157
+262,lEjmgE-hogg,#Excel is Frustrating,2023-11-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3635,5,233
+263,qxj3dx0c7RM,7 Mistakes to Avoid in Your Data Analytics Job Search | CareerFoundry Webinar,2023-11-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,11811,11,391
+264,zgYqUP_PhQo,Group By + Order By in MySQL | Beginner MySQL Series,2023-11-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3827,7,142
+265,MARn_mssG4A,Where Clause in MySQL | Beginner MySQL Series,2023-11-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5319,19,152
+266,TGAUZQJaQbQ,Why Data Analysts Hate Using Excel,2023-11-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,19475,129,800
+267,HYD8KjPB9F8,Select Statement in MySQL | Beginner MySQL Series,2023-11-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,12342,17,206
+268,wgRwITQHszU,Installing MySQL and Creating Databases | MySQL for Beginners,2023-10-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,14747,41,458
+269,1LG65qXfeQY,Python Beginner to Advanced in One Hour | CareerFoundry Webinar,2023-10-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,20081,14,844
+270,QzLz-W29Tww,How to Start a Data YouTube Channel,2023-10-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,7193,44,353
+271,ukIUVW2E-n0,600k Livestream! | Analyst Builder Giveaways | Songs | My Mom is Joining!,2023-10-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5048,11,240
+272,aofB2t5o2ao,Consulting and Freelancing in Data Analytics | ATA Show: Episode 25,2023-10-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,12325,202,467
+273,-DwpkgtJjGw,Data Analyst vs Business Analyst,2023-10-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,13637,8,832
+274,h4KTy2wxYcQ,First Look at Analyst Builder! | The All-in-One Platform for Data Analysts | Beta Launch Coming Soon,2023-10-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,30810,207,830
+275,LaRXtE4OG9A,#DataAnalysis #DataAnalyst #DataRealities,2023-10-09,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,13708,11,824
+276,J0PcCv9f4JQ,#DataAnalyst #DataCareers #DataAnalysis,2023-10-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,8974,16,678
+277,_DGn-7134i0,"Data Analyst vs Data Engineer | Responsibilities, Salaries, Skills, Education",2023-10-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,31018,40,654
+278,EflE8U30pBo,Data Analyst Q/A Livestream | September Livestream | Ask Me Anything!,2023-09-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,8629,20,281
+279,j_sHaBJEHMk,#Salary #DataAnalyst #SalaryNegotiation,2023-09-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,9519,7,638
+280,xuyKzpJ2SaY,AI and Analytics with SAS | SAS Explore Recap,2023-09-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,9966,21,321
+281,D0mEy6bJ2lA,My Very First Video,2023-09-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5396,22,295
+282,GaoAc3-hScQ,#DataAnalyst #CareerPath,2023-09-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,11311,14,904
+283,bxIF9X9k2IE,"Data Analyst vs Data Scientist | Responsibilities, Salaries, Skills, Education",2023-09-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,36785,53,900
+284,z_xWpa88R0A,#Excel #DataAnalyst #DataAnalysis,2023-09-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,10963,19,941
+285,7PoZBuIUnEU,"Data Analyst vs Business Analyst | Responsibilities, Salaries, Skills, Education",2023-09-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,35959,100,1346
+286,fq1-e-GbihE,#DataAnalysis #DataAnalyst,2023-09-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,13029,20,964
+287,Xkb6h3YXl_c,Hard Skills vs Soft Skills in the Data World | Which is More Important?,2023-09-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,11668,27,583
+288,qDprq7Xbrqw,"Entry Level vs Mid Level vs Senior Level Data Analyst | Responsibilities, Salary, Education, Skills",2023-08-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,34987,111,1635
+289,UOHxb9ndpMM,#DataAnalyst #DataAnalysis #Promotion,2023-08-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,8144,9,496
+290,_h_A_n8Z9QQ,#DataAnalyst #DataAnalysis,2023-08-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,15947,49,1077
+291,_oCUSMX4_3k,Regular Expression Use Cases in Python,2023-08-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5392,18,139
+292,OnS01G8W6nw,Data Analyst Q/A Livestream | August Livestream | Ask Me Anything!,2023-08-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,8348,25,320
+293,ugkyfUTc6AU,#DataAnalystSalary #DataAnalysis,2023-08-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21229,32,1572
+294,eON-PNPae8Y,How to Work with Recruiters on LinkedIn,2023-08-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21429,69,1140
+295,41nX2ZgGzcE,#dataanalysis #dataportfolio,2023-08-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,16373,18,1474
+296,Le35Qsgs2lM,#wife #careerchange #dataanalysis,2023-08-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,15599,46,1473
+297,nufF-juSZxU,LINK: https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF,2023-08-09,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6037,41,681
+298,9NB5u17qiDY,Regular Expression Character Classes in Python,2023-08-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6201,13,126
+299,YDvJqgBv0Uc,#Recruiters #dataanalysis #data,2023-08-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,13415,24,921
+300,j6A28L6Tmxw,Regular Expression Metacharacters in Python,2023-08-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,4233,8,113
+301,W_s4c1vLGXM,How much do Data Analysts make? #dataanalyst #dataanalystsalary,2023-07-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,15296,41,640
+302,DWte9zjGl0I,Do you need to learn SQL if you can do everything in Python?  #Python #dataanalysis #SQL,2023-07-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,32020,37,2118
+303,EzeeypMKx7o,Regular Expression Methods in Python,2023-07-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,4983,8,174
+304,OISvlkfbntY,What are Hiring Managers Looking For? | Nail the Interview Process!,2023-07-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,18481,63,853
+305,8dTpNajxaH0,Scraping Data from a Real Website | Web Scraping in Python,2023-07-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,138156,138,3006
+306,oreAsJTNcsA,SQL Beginner to Advanced in One Hour | CareerFoundry Webinar,2023-07-06,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,157556,93,5069
+307,xjA1HjvmoMY,Find and Find_All | Web Scraping in Python,2023-07-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,20698,16,694
+308,LO7hzmoHEIE,500k Livestream!!,2023-06-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6228,25,387
+309,bargNl2WeN4,BeautifulSoup + Requests | Web Scraping in Python,2023-06-27,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,38712,30,956
+310,q-kbzWjyPak,Inspecting Web Pages with HTML | Web Scraping in Python,2023-06-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,25799,26,780
+311,PExdWWcxmro,Best Places to Find Datasets for Your Projects,2023-06-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,39217,52,1569
+312,Liv6eeb1VfE,Exploratory Data Analysis in Pandas | Python Pandas Tutorials,2023-06-06,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,58909,87,1586
+313,fHK4nHbUtj0,Data Analyst Q/A Livestream | May Livestream | Ask Me Anything!,2023-05-30,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,10115,21,365
+314,5l2d_Rv0odE,What is Microsoft Fabric? | New Data Analytics Platform!,2023-05-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,145793,124,3587
+315,bDhvCp3_lYw,Data Cleaning in Pandas | Python Pandas Tutorials,2023-05-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,133324,192,3639
+316,IMU1V-JugKo,The Ultimate Data Analytics Career Plan for 2023 | CareerFoundry Webinar,2023-05-16,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,56021,54,1863
+317,FpgkpjSyBOw,State of AI in Analytics | Will AI be the End of Data Analysts?,2023-05-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,43468,383,1321
+318,6jtS3Hz19kc,Google Bard Got An Upgrade! + Google&#39;s New AI Announcements!,2023-05-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,33107,80,805
+319,JpSMse3eVVg,Creating Visualizations using Pandas Library | Python Pandas Tutorials,2023-05-09,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,28812,24,686
+320,TPivN7tpdwc,Merging DataFrames in Pandas | Python Pandas Tutorials,2023-05-02,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,36591,34,951
+321,kky9MMydnOA,Data Analyst Q/A Livestream | April Livestream | Ask Me Anything!,2023-04-27,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,10125,27,341
+322,2izXQUoXyjA,How to Integrate ChatGPT in Jupyter Notebooks for Free!,2023-04-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,40592,52,994
+323,zilfrWwbteQ,7 Ways to Use ChatGPT for Analytics | Webinar,2023-04-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,37833,34,1066
+324,PJINexERxOs,Google Business Intelligence Professional Certification Review,2023-04-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,33499,63,999
+325,gTf2GLEhKgA,Google Advanced Data Analytics Professional Certificate First Look | Is it Worth it?,2023-04-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,130834,371,3845
+326,VRmXto2YA2I,Group By and Aggregate Functions in Pandas | Python Pandas Tutorials,2023-04-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,28033,39,796
+327,6yNsc7JVPJE,Top 5 Biggest Mistakes Beginner Data Analysts Make,2023-03-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,37241,86,1726
+328,mBCG9J1TVTc,Indexes in Pandas | Python Pandas Tutorials,2023-03-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21798,23,579
+329,WizLaDdsHUs,Create the Perfect Data Analyst Resume | Free Templates!,2023-03-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,107034,191,3510
+330,kB7FV-ijdqE,Filtering Columns and Rows in Pandas | Python Pandas Tutorials,2023-03-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,33615,37,848
+331,dFA0E-6xT_M,Data Analyst Q/A Livestream | March Livestream | Ask Me Anything!,2023-03-02,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,11109,33,398
+332,dUpyC40cF6Q,Reading in Files in Pandas | Python Pandas Tutorials,2023-02-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,60144,51,1173
+333,gs0FNQR0njI,Building an Automated File Sorter in File Explorer using Python | Python Projects for Beginners,2023-02-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,31349,58,774
+334,C75TROiiEa0,ChatGPT for Data Analysts | Best Use Cases + Analyzing a Dataset,2023-02-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,430758,224,8203
+335,rGx1QNdYzvs,FREE Data Analyst Bootcamp!!,2023-02-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,680903,1193,24810
+336,CUBfrdDwznQ,How to Become a Data Analyst in 2023 (Completely FREE!),2023-01-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,825974,914,30500
+337,L-QnW_BZT3c,Live Portfolio Review with Alex the Analyst!  | Live Webinar,2023-01-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,17022,23,621
+338,S76iS03nGis,DIY Data Analyst Curriculum using Udemy (Under $75),2023-01-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,33170,114,1271
+339,RBEgsEVO3T8,Reviewing Maven Analytics Free Portfolio Website,2023-01-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,20957,44,669
+340,gCG07l6Fu-U,5 Study Hacks for Beginner Data Analysts! | Live Webinar,2023-01-16,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,45246,36,1358
+341,DXwFsxCtukg,DIY Data Analyst Curriculum using Coursera in 2023,2023-01-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,57008,222,2786
+342,ey1VNjU0YbM,Building a BMI Calculator with Python | Python Projects for Beginners,2023-01-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,41137,57,922
+343,0MKcCHrTo0c,"Reading, Writing, and Appending Files in Python | Python for Beginners",2022-12-27,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5693,12,193
+344,bVJfQAe-UP4,Why I Quit my 125k Analytics Job,2022-12-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,153117,865,8572
+345,_2OknmkngkQ,Data Analyst Q/A Livestream + Special Guest! | December Livestream,2022-12-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5023,16,168
+346,B63bN2cLVLM,Converting Data Types in Python | Python for Beginners,2022-12-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,22314,24,665
+347,zvzjaqMBEso,Functions in Python | Python for Beginners,2022-12-06,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,27552,26,801
+348,ECduJk00mUU,While Loops in Python | Python for Beginners,2022-11-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,24606,18,801
+349,zmIdC0_0BgY,For Loops in Python | Python for Beginners,2022-11-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,27786,20,741
+350,eP8-mo5jRrY,Data Analyst Q/A Livestream | November Livestream,2022-11-16,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6233,18,202
+351,-BOBedcjySI,If Else Statements in Python | Python for Beginners,2022-11-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,24213,23,751
+352,lPVke-p4S7s,"Comparison, Logical, and Membership Operators in Python | Python for Beginners",2022-11-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,25848,16,760
+353,ppsCxnNm-JI,Data Types in Python | Python for Beginners,2022-11-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,50673,52,1353
+354,rVhHGPDzEck,Data Analyst Q/A Livestream | October Livestream,2022-10-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5671,11,184
+355,pHOH7UfOhbE,Variables in Python | Python for Beginners,2022-10-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,54260,46,1388
+356,sXHIIW3Wt84,300k Livestream! | Giveaways for People in Chat | Bring Your Wine,2022-10-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5229,23,246
+357,WUeBzT43JyY,Installing Jupyter Notebooks/Anaconda | Python for Beginners,2022-10-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,169271,98,3049
+358,DVs9u15htXU,Interviewing Tina Huang | Fellow YouTuber and Data Enthusiast,2022-10-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,9161,21,328
+359,zW3qJUeJLWc,Interviewing Luke Barousse | Arch-Nemesis and Fellow YouTuber,2022-10-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,7101,31,324
+360,m1AkWK_ODLM,When Best Friends Work Together (ft. Luke Barousse),2022-10-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,15011,84,669
+361,Pfq-8pGzgg4,Data Analyst Live Stream | Riding out Hurricane Ian,2022-10-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6652,14,214
+362,pixlHHe_lNQ,Full Power BI Guided Project | Microsoft Power BI for Beginners,2022-09-27,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,247900,298,4971
+363,3NV5Jtbhfcw,Popular Visualizations in Power BI | Microsoft Power BI for Beginners,2022-09-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,49592,45,1389
+364,1cfrQLoJMPI,"Guided Portfolio Projects on Coursera | Python, SQL, Excel, Power BI, and Tableau",2022-09-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,50818,99,1997
+365,9j_EBt3RNrs,How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners,2022-09-06,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,46488,34,1222
+366,m0h3Ghl6mgY,How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners,2022-08-30,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,71485,37,1357
+367,50D__p6jdEI,Top 8 Mistakes Beginner Data Analyst&#39;s Make | CareerFoundry Webinar,2022-08-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,75832,76,2065
+368,tRCGGlMI19M,Interviewing Ken Jee | The Face of Data Science on YouTube,2022-08-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6928,15,248
+369,0QZBnhofU_U,CareerFoundry Data Analytics Bootcamp Review | Bootcamp + Intro + Free Course Review,2022-08-16,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,22933,113,596
+370,ulFY20KTzFQ,How to use Drill Down in Power BI | Microsoft Power BI for Beginners,2022-08-09,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,89058,56,1745
+371,PEc29sRZoTM,"Best Courses for Alternative Analyst Jobs | Marketing Analyst, Business Analyst, Financial Analyst",2022-08-02,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,17952,72,797
+372,DlEkWd-8VXA,250k Subscriber Live Stream!!,2022-07-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,4157,11,157
+373,vcijg0gUXSg,How to use DAX in Power BI | Microsoft Power BI for Beginners,2022-07-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,90510,94,2121
+374,gCg47n_TlFc,Tech Layoffs and Hiring Freezes | The Great Resignation | Alex The Analyst Show | Episode 23,2022-07-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21855,126,623
+375,sW5LoDA1ssM,How to Create and Manage Relationships in Power BI | Microsoft Power BI for Beginners,2022-07-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,106736,66,2162
+376,4nsdARJGzJ0,Machine Learning Specialization on Coursera | Review,2022-07-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21295,59,707
+377,_QvQxm4dptI,Meta Marketing Analytics Professional Certificate on Coursera | Review,2022-06-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,29827,94,807
+378,HX2TabgkzHo,Google&#39;s Secret Hiring Platform | Found in the Google Data Analytics Certification,2022-06-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,45057,133,1646
+379,gP-AxNi6uxo,How to use Power Query in Power BI | Microsoft Power BI for Beginners,2022-06-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,152538,64,2833
+380,KB2CtEDrglY,Automating Crypto Website API Pull Using Python | Data Analyst Project,2022-06-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,43468,74,807
+381,2HfSFdPEFRg,How to use a Public API | Using a Public API with Python,2022-05-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,24792,58,940
+382,g0m5sEHPU-s,How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners,2022-05-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,216861,198,4254
+383,Q7i6zxHVj2Q,MySQL vs Postgresql vs Microsoft SQL Server Management Tools | Which Option is Best?,2022-05-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,108266,259,2355
+384,ddn-2r1j_OU,Top 3 Tips to Stop Procrastinating to be Successful,2022-05-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,32913,156,1672
+385,Pf-9pjJK1e0,SQL vs NoSQL | What&#39;s the Difference?,2022-05-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,53547,66,1674
+386,-bSkREem8dM,Database vs Data Warehouse vs Data Lake | What is the Difference?,2022-04-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,548381,247,15013
+387,xKdtP3IZbnU,How I Manage My Time Working 60+ Hours Per Week | Alex The Analyst Show | Episode 22,2022-04-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,11656,161,323
+388,GsAXOr715AU,200k Livestream! | Shaving | Puppies | Giveaway,2022-04-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3166,11,134
+389,2JnlQ8jwWbE,Things I HATE About Being a Data Analyst,2022-04-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,33854,196,1432
+390,hNTNZ00cZig,Best Website to Practice Technical Interview Questions,2022-04-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,17544,55,644
+391,gz2j5NBESSs,Pros and Cons of Working Remote | Alex The Analyst Show | Episode 21,2022-03-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6963,161,271
+392,opJgMj1IUrc,Full Project in Excel | Excel Tutorials for Beginners,2022-03-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,525246,779,12041
+393,yRWkSKRYCaI,Top 5 Non-Technical Skills for Data Analysts,2022-03-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21000,74,793
+394,_jmiEGZ6PIY,Cleaning Data in Excel | Excel Tutorials for Beginners,2022-03-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,355867,258,7968
+395,4A8LV6fObYA,Tableau Data Analyst Certification Review,2022-02-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,55882,125,1451
+396,MPENhkuSo0Q,Job Title Alternatives for Data Analysts,2022-02-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,25866,95,1013
+397,3irO29PJQHs,Best Coursera Courses for Data Analysts in 2022,2022-02-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,105480,216,5387
+398,uHJFJUIYNAo,Understanding Your Data Analyst Salary Offer | What To Know Before Accepting,2022-02-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,20457,61,718
+399,gMAHXrty6wI,Charts in Excel | Excel Tutorials for Beginners,2022-01-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,78342,48,2176
+400,BIUFr9srS78,How I became a Data Analytics Manager | Alex The Analyst Show | Episode 20,2022-01-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,22576,357,852
+401,_eZRkmRfVTM,Conditional Formatting in Excel | Excel Tutorials for Beginners,2022-01-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,108728,87,2549
+402,s3JmRxs53W4,150k Subscriber Livestream!!,2022-01-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3476,7,161
+403,yDG5KiiOZcQ,How To Become A Data Analyst In 2022,2022-01-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,496253,641,22191
+404,Z7hPEwCzk2s,XLOOKUP in Excel | Excel Tutorials for Beginners,2021-12-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,127788,131,3049
+405,XRPyj7cKVsQ,Formulas in Excel | Excel Tutorials for Beginners,2021-12-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,206153,290,5071
+406,lH7HfwUFnYA,Pivot Tables in Excel | Excel Tutorials for Beginners,2021-12-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,415978,271,8918
+407,zOR0-nygfDE,Full Beginner Project in Tableau | Tableau Tutorials for Beginners,2021-12-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,192558,319,4146
+408,A4SVUF-fTwc,How to use Joins in Tableau | Tableau Tutorials for Beginners,2021-11-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,86743,54,2581
+409,FnTunxd8tAM,Top 5 Major Red Flags in Job Descriptions,2021-11-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,17864,72,951
+410,-_z_aphWSEo,Truth About My Job (Song) - As a Data Analyst,2021-11-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,10315,105,872
+411,pL0jEjeM5hI,How to Grow Your Analytics Career | Alteryx Webinar Oct 2021 | Tips to Break Into Analytics,2021-10-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,11021,35,338
+412,eg_5EAUXs5o,Choosing a Domain to Make More Money,2021-10-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,18096,81,911
+413,ebjDwX8sUMk,How to Create Visualizations in Tableau | Tableau Tutorials for Beginners,2021-10-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,117660,143,2864
+414,f6qxxtWkaUg,How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners,2021-09-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,148202,76,3437
+415,6xv1KvCMF1Q,How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners,2021-09-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,493330,321,12081
+416,465x3JmMJYU,How NOT to Become a Data Analyst (Funny?),2021-09-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,17154,114,712
+417,Ns1ZpTxQnUE,100k Subscriber Play Button Unboxing,2021-08-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,2633,96,242
+418,HiOtQMcI5wg,Amazon Web Scraping Using Python | Data Analyst Portfolio Project,2021-08-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,204644,524,4985
+419,CUa30M_FPhk,Interviewing with PwC for a Senior Data Analyst Position,2021-08-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,85823,158,2330
+420,DKrSgSy6F1o,100k Livestream | Announcing Giveaway Winners | Trimming Mustache | Answering Questions,2021-08-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,4732,26,192
+421,_zxPx1PQCqI,I Am No Longer a Data Analyst | Turning Down PwC | New Job,2021-08-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,142942,490,4441
+422,UGF49YZZRNc,When To Start Applying To Your First Data Analyst Job,2021-07-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,66918,228,3768
+423,aLp-6C-p-T0,Why You Need to Stop Taking Courses (From an Ex-Course Addict),2021-07-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,129851,364,5624
+424,ocdwh0KYeUs,How to Create a Portfolio Website for FREE,2021-06-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,398179,617,10015
+425,iPYVYBtUTyE,Data Analyst Portfolio Project | Correlation in Python | Project 4/4,2021-06-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,137496,429,2588
+426,dMHWOhgzUhU,How To Get a Data Analyst Job (with No Experience),2021-06-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,443924,594,19573
+427,A-LkxegXFX8,My Wife Answers Subscribers Questions About Me | Alex The Analyst Show | Episode 19,2021-06-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,6242,107,240
+428,RJw-GSXXguA,Favorite Tableau and Power BI Courses on Udemy,2021-06-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,29044,86,823
+429,8rO7ztF4NtU,Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4,2021-05-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,328993,753,6729
+430,QILNlRvJlfQ,Data Analyst Portfolio Project | Tableau Visualization | Project 2/4,2021-05-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,316672,435,5297
+431,SVv0WwPzaUg,Asking My Family What I Do For a Living,2021-05-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3689,56,194
+432,qfyynHBFOsM,Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4,2021-05-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,1568865,3574,29280
+433,m1KcNV-Zhmc,Advanced SQL Tutorial | Subqueries,2021-04-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,280127,190,6581
+434,IZRe0nwkuXc,Data Analyst Q/A #6 | Why Am I Not a Data Scientist?,2021-04-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,22012,149,824
+435,9RRQtNnq3s0,Google vs IBM Data Analytics Certificates | Which is Better?,2021-04-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,305027,590,11025
+436,qewHAdfzLOw,Data Analyst Reacts: How to Go From Data Analyst to Data Scientist,2021-04-06,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,24494,84,884
+437,bHssBHfHWmU,Laptops for Data Analysts |  Specifications + Recommendations,2021-03-30,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,161879,296,3717
+438,A4OVjWeVb10,Best Machine Learning Courses on Coursera,2021-03-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,47325,80,1530
+439,SIseim20_Dc,Will Data Analysts Be Automated? | Alex The Analyst | Episode 18,2021-03-18,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,16144,122,474
+440,NrBJmtD0kEw,Advanced SQL Tutorial | Stored Procedures + Use Cases,2021-03-16,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,298690,156,5794
+441,wnapnTAMj68,Google Data Analytics Professional Certificate | It&#39;s Finally Here!,2021-03-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,352116,1169,10987
+442,duMcYRtQITA,Google Data Analytics Certificate | Coming Out Soon!,2021-03-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,51654,328,2383
+443,QG1fo7LFesA,Reviewing Your Data Analyst Resumes | Part 2,2021-03-02,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21127,77,536
+444,pYRG5X7110M,Best Course to Learn Statistics for Data Analysis,2021-02-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,81951,88,2314
+445,NViKsiGP4TY,DataQuest Review | Is it Worth it?,2021-02-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,21915,46,400
+446,1gdKC5O0Pwc,R vs Python | Which is Better for Data Analysis?,2021-02-16,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,205391,385,4700
+447,GQj6_6V_jVA,Advanced SQL Tutorial | String Functions + Use Cases,2021-02-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,130307,134,3502
+448,RF0LE3hYFrI,Advanced SQL Tutorial | Temp Tables,2021-02-02,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,191234,121,4537
+449,8o-O6pR6yAE,IBM Data Analyst Certificate Study Session,2021-01-30,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,5148,22,175
+450,eFDbE5Yunj0,IBM Data Analyst Professional Certificate by Coursera | Is it Worth it?,2021-01-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,104822,292,2792
+451,D9bNctNnAig,DataCamp Review | Is it Worth it?,2021-01-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,148666,249,3277
+452,VsztBAEtC7c,Best Python Course for Data Analysts,2021-01-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,46621,114,1308
+453,T3KMZoXrVTQ,Top 5 Data Analyst Skills,2021-01-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,25184,167,1194
+454,tJaDicmRW7s,Best Industries for Data Analysts in 2021 | Alex The Analyst Show | Episode 17,2021-01-07,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,14401,149,473
+455,hfRcaRw_atI,Top 5 Data Analyst Interview Mistakes,2021-01-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,57064,63,1578
+456,aPDOGxrONy0,2020 Year End Review + Upcoming Giveaway Details,2020-12-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,1551,101,140
+457,w25ZjL0OqT4,Data Analyst Resume | Everything You Need to Know | Alex The Analyst Show | Episode 16,2020-12-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,40556,138,1177
+458,EWPeAXrF3zg,Solving Medium Level SQL LeetCode Questions | Part 2/3,2020-12-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,10264,32,230
+459,ru0Xdvxd37Q,Entry vs Mid vs Senior Level Data Analyst | Alex The Analyst Show | Episode 15,2020-12-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,44959,207,1507
+460,BAVPAYWAoC4,Data Engineer vs Data Analyst | Which Is Right For You?,2020-12-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,75850,139,2578
+461,whgwEwA5SHU,How to Find Out Your Coworkers Salary | Alex The Analyst Show | Episode 14,2020-12-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,2608,54,94
+462,K1WeoKxLZ5o,Advanced SQL Tutorial | CTE (Common Table Expression),2020-12-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,255059,166,4343
+463,0HRgbb1PcDQ,"Data Analyst Salary (Expectations, Bonuses, 401K, ESPP) | Alex The Analyst Show | Episode 13",2020-12-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,22711,194,738
+464,D6XNlTfglW4,Intermediate SQL Tutorial | Partition By,2020-12-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,199540,180,5077
+465,MQ5UUNjWgug,Data Analyst Q/A LIVE #5 | AMA,2020-11-28,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,4793,18,131
+466,JikLVP9DkPs,Completely REALISTIC Jobs on LinkedIn | Alex The Analyst Show | Episode 12,2020-11-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,24068,161,872
+467,yzqpYs7dIqY,Completely Unrealistic Jobs on LinkedIn | Alex The Analyst Show | Episode 11,2020-11-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,14221,206,565
+468,7uH7_DThtX0,Top 3 Tips on Using LinkedIn to Land a Job,2020-11-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,232157,211,9118
+469,GGLF2jLo8J4,What is No Code Analytics? | Alex The Analyst Show | Episode 10,2020-11-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3721,80,120
+470,BGBXnNvWdQ4,Solving LeetCode SQL Interview Questions | Part 1/3,2020-11-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,23112,62,619
+471,PurMLMKNX0I,What is Analytics Consulting? With John Ariansen | Alex The Analyst Show | Episode 9,2020-11-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,12157,115,360
+472,pvxNYyJuiqA,Data Analyst Skills Path | What Skills You NEED to Know,2020-11-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,75088,275,3558
+473,rZpfNh28nFI,Data Analyst Q&amp;A LIVE #4,2020-10-30,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,3425,25,105
+474,brxnKIy6Cek,Asking My Wife Your Questions About Me | Alex The Analyst Show | Episode 8,2020-10-27,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,13526,223,551
+475,ySq0cgkZiX4,Top 10 Udemy Courses for Data Analysts,2020-10-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,141619,275,4357
+476,aJ9Q10v8Nrc,Data Analyst Certifications | Are They Worth It? | Alex The Analyst Show | Episode 7,2020-10-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,176798,987,6199
+477,C2ik_qR5GOU,Working at a Startup vs Fortune 500 Company | Alex The Analyst Show | Episode 6,2020-10-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,4520,72,171
+478,mLUzFXPPa4I,Top 10 Coursera Courses for Data Analysts,2020-10-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,101846,279,4559
+479,XmFhpoS6Etk,Imposter Syndrome in Tech | Alex The Analyst Show | Episode 5,2020-10-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,7074,178,359
+480,1xT68oeQTd0,Data Analyst Expectations vs Reality,2020-10-06,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,75213,187,2796
+481,eTsHJoMmhYQ,Covid and the Data Analyst Job Market | Alex The Analyst Show | Episode 4,2020-10-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,7120,164,253
+482,8SolrjsGqzE,Self Taught vs Boot Camp vs Degree | Alex The Analyst Show | Episode 3,2020-09-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,44436,715,1485
+483,SKsjWzzz4mY,Top 5 Reasons You&#39;ll Be a Good Data Analyst,2020-09-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,14424,82,608
+484,Z2AachB309o,How I Changed Careers to Become a Data Analyst | Alex The Analyst Show | Episode 2,2020-09-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,413001,3813,12131
+485,_gP-DH0iZLw,Top 5 Reasons Data Analytics is a Good Career Choice,2020-09-08,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,43934,74,1323
+486,-Inc1be4zSg,The Hiring Process from an Interviewer&#39;s Perspective | Alex The Analyst Show | Episode 1,2020-09-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,19338,83,668
+487,CsMh7Ykmnw4,Top 5 Reasons Not to Lie on Your Resume,2020-09-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,11466,116,202
+488,ho2vzKPAD50,Live Data Analyst Q&amp;A #3,2020-08-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,2797,43,101
+489,5MZo2RoS8Yo,Data Analyst Career Path | How to Become a Data Analyst + What to Do Next,2020-08-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,129076,273,4656
+490,M2ySRYpo9S0,Top 5 Reasons Not to Become a Data Analyst,2020-08-12,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,914316,1052,19687
+491,ncXgqGePvwI,Data Analyst Bootcamps | Are They Worth It?,2020-08-05,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,32341,91,553
+492,ywZXpfdqg1o,What Does a Data Analyst Actually Do?,2020-07-29,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,847658,453,16904
+493,IqQCBytyATo,Data Analyst Question and Answer | Answering Your YouTube Questions,2020-07-22,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,4169,67,166
+494,MpIi4HtCiVk,Scraping Data Off Twitter Using Python | Twitterscraper + NLP + Data Visualization,2020-07-15,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,52824,157,1365
+495,G4syHs3M82E,Data Analyst vs Business Analyst | Which Is Right For You?,2020-07-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,730670,573,18814
+496,appOFpF2pFg,Best Free Online Courses for Data Analysts,2020-06-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,55974,95,2731
+497,B2SPC3Wz1R8,Best Online Courses for Data Analysts,2020-06-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,177849,417,9248
+498,fUpChfNN5Uo,Data Scientist vs Data Analyst | Which Is Right For You?,2020-06-10,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,753477,850,23592
+499,Dk7he_yEs4U,Intermediate SQL Tutorial | Aliasing,2020-06-04,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,107588,83,3138
+500,LJtFgnHGAos,Data Analyst Q&amp;A LIVE,2020-05-31,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,9332,54,246
+501,ziurEoqEcO4,Data Analyst Interviews | Salary Negotiation,2020-05-27,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,24085,26,758
+502,rLKC--8UYSw,Data Analyst Interview Questions | What To Say vs What NOT To Say,2020-05-20,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,65639,35,1598
+503,sua7xKN0cPc,SQL Interview Questions and Answers for Beginners | Data Analyst Interview Questions,2020-05-13,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,110391,105,2964
+504,oXAwKZWfbW0,Day in the Life of a Data Analyst | Fortune 500 Edition (During Quarantine),2020-04-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,14991,51,522
+505,bhnrIforc7s,Intermediate SQL Tutorial | Updating/Deleting Data,2020-04-16,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,110748,126,2714
+506,tYBOMw7Ob8E,Intermediate SQL Tutorial | Having Clause,2020-04-09,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,129300,67,3675
+507,Twusw__OzA8,Intermediate SQL Tutorial | Case Statement | Use Cases,2020-04-02,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,222452,371,5779
+508,lYKkro6rKm0,Intermediate SQL Tutorial | Unions | Union Operator,2020-03-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,192793,143,4049
+509,9URM1_2S0ho,Intermediate SQL Tutorial | Inner/Outer Joins | Use Cases,2020-03-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,390232,385,7088
+510,qzZU6LAtIig,Day in the Life of a Data Analyst | Fortune 500 Edition,2020-03-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,124163,268,2560
+511,LXwfzIRD-Ds,SQL Basics Tutorial For Beginners | Group By + Order By Statements | 4/4,2020-03-03,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,245918,213,6616
+512,A9TOuDZTPDU,SQL Basics Tutorial For Beginners | Where Statement | 3/4,2020-03-02,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,258451,140,4875
+513,PyYgERKq25I,SQL Basics Tutorial For Beginners | Select + From Statements | 2/4,2020-03-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,376590,242,5910
+514,RSlqWnP-Dy8,SQL Basics Tutorial For Beginners | Installing SQL Server Management Studio and Create Tables | 1/4,2020-03-01,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,1082881,1731,15045
+515,9o9loJpG-t4,Data Analyst Fact Check |  84k Average Starting Salary?? | The Career Force 2020 Data Analyst Salary,2020-02-26,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,25480,161,848
+516,Lacbh0VoT3g,Data Analyst Resume | Reviewing YOUR Data Analyst Resumes!,2020-02-24,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,23891,39,516
+517,oZKs2xMbXQE,Data Analyst Salary in 2020,2020-02-19,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,8008,25,155
+518,N8f7NtDpbxA,Working With a Recruiter to Land Your First Job as a Data Analyst | LinkedIn Recruiters,2020-02-14,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,13123,39,580
+519,wcKzdRVsMOw,Switching Careers to Become a Data Analyst | How I Made the Switch,2020-02-11,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,48225,248,1768
+520,Ns-8Jsa3mEM,Data Analyst Resume | Complete Guide To Creating A Data Analyst Resume | Tips + Templates + Examples,2020-02-06,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,113919,101,3368
+521,4rfr6A3lO-Y,Data Analyst Resume | Reviewing My Resume! | Fortune 500 Data Analyst,2020-01-30,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,66021,64,1570
+522,OTq2NRy_AGs,Working at a Big Company Vs Small Company | Told by a Fortune 500 Data Analyst,2020-01-25,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,14490,20,396
+523,ya28cb3zFGE,Data Analyst Salary | 100k with No Experience,2020-01-23,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,62054,227,2147
+524,Hsi2BG0SOiQ,Truth About Big Companies | Told by a Fortune 500 Data Analyst,2020-01-21,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,8110,18,304
+525,6lQzbk6_OTw,Top 3 Data Analyst Skills in 2020,2020-01-17,Alex The Analyst,UC7cs8q-gJRlGwj4A8OmCmXg,27761,138,1363
